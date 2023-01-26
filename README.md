@@ -1,5 +1,5 @@
 # Radio-Stream-addon
-This is a Radio Stream add-on created by the team at CubeFM for https://github.com/SlimHostdev/discord_v13_main_bot
+This is a Radio Stream add-on created by the team at CubeFM for [[Discord.js V13 Main Bot]](https://github.com/SlimHostdev/discord_v13_main_bot)
 
 ## Instaling The Addon
 
